@@ -8,7 +8,7 @@ Ice cream parlor management application - Internship program assignment for L7 I
 
 # Execution
 - kindly start running the app.py file once you have all the requirements.
--- Windows command prompt: python app.py
--- Mac: python3 app.py
+* Windows command prompt: python app.py
+* Mac: python3 app.py
 
 - after this.. search for http://localhost:5000
